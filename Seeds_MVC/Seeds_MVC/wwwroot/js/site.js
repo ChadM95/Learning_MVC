@@ -1,5 +1,13 @@
-﻿// Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿$(document).ready(function () {
+    $("#pot").click(function () {
+        $(".p").show(1000);
+        $(".s").hide(1000);
+    });
 
-// Write your JavaScript code.
+    $("#seed").click(function () {
+        $(".p").hide(1000);
+        $(".s").show(1000);
+    });
 
+}
+);

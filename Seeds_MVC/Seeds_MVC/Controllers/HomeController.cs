@@ -7,11 +7,10 @@ namespace Seeds_MVC.Controllers;
 public class HomeController : Controller
 { 
 
-    public IActionResult Home()
+    public IActionResult Index()
     {
         return View();
     }
 
-    
 }
 

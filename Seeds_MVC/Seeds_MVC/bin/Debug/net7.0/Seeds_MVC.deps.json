@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Seeds_MVC/1.0.0": {
+        "runtime": {
+          "Seeds_MVC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Seeds_MVC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
