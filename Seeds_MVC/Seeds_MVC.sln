@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 25.0.1706.4
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seeds_MVC", "Seeds_MVC\Seeds_MVC.csproj", "{0343FF23-B458-4A8D-A89D-05AE0E866E36}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Seeds_MVC", "Seeds_MVC\Seeds_MVC.csproj", "{F75AA41D-BEC7-459B-A77D-5379F30C9FE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0343FF23-B458-4A8D-A89D-05AE0E866E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0343FF23-B458-4A8D-A89D-05AE0E866E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0343FF23-B458-4A8D-A89D-05AE0E866E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0343FF23-B458-4A8D-A89D-05AE0E866E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75AA41D-BEC7-459B-A77D-5379F30C9FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75AA41D-BEC7-459B-A77D-5379F30C9FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75AA41D-BEC7-459B-A77D-5379F30C9FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75AA41D-BEC7-459B-A77D-5379F30C9FE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3041F8F2-CB67-45EB-BC95-6AE2E760DF0D}
+		SolutionGuid = {EAB0DB47-4C2A-49EC-971B-C3BE475FD7ED}
 	EndGlobalSection
 EndGlobal

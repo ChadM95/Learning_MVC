@@ -21,9 +21,7 @@
 /Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/staticwebassets.pack.json
 /Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/staticwebassets.build.json
 /Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/staticwebassets.development.json
-/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/bundle/Seeds_MVC.styles.css
-/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/projectbundle/Seeds_MVC.bundle.scp.css
 /Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/Seeds_MVC.dll
 /Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/refint/Seeds_MVC.dll
 /Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/Seeds_MVC.pdb

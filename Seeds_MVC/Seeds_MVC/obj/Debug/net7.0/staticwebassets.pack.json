@@ -1,10 +1,6 @@
 {
   "Files": [
     {
-      "Id": "/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/projectbundle/Seeds_MVC.bundle.scp.css",
-      "PackagePath": "staticwebassets/Seeds_MVC.bundle.scp.css"
-    },
-    {
       "Id": "/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },

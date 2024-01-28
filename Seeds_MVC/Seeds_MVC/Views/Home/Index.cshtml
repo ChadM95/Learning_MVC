@@ -1,9 +1,38 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    Layout = null;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Seeds for sale</title>
+    <meta charset="utf-8" />
+    <link href="~/css/site.css" type="text/css" rel="stylesheet" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="~/js/site.js" type="text/javascript"></script>
+
+</head>
+<body>
+    <header>
+        <h1>Best Seeds Ltd.</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="/Home/Home.html">Home</a></li>
+            <li class="label" id="pot">Potatoes</li>
+            <li class="p"><a href="/Potato/BlightResistant.html">Blight Resistant</a></li>
+            <li class="p"><a href="/Potato/MainCrop.html">Main Crop</a></li>
+            <li class="label" id="seed">Seeds</li>
+            <li class="s"><a href="/Seeds/FlowerSeeds.html">Flower Seeds</a></li>
+            <li class="s"><a href="/Seeds/VegetableSeeds.html">Vegetable Seeds</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <p class="par">Our business sells lots of seeds for your garden.</p>
+        <p class="par">We sell potato seeds and flower seeds and vegetable seeds.</p>
+    </section>
+</body>
+</html>

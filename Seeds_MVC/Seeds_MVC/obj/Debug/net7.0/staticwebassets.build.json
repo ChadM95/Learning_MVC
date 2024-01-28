@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LumbCL+Zk9fXowvfmWGos32vfX5nxGynqiQo/K+Yf+A=",
+  "Hash": "O0vznjOmcEP9yEO9zFnB8EN6XZOt1NZcVCZNPk1yORo=",
   "Source": "Seeds_MVC",
   "BasePath": "_content/Seeds_MVC",
   "Mode": "Default",
@@ -16,40 +16,6 @@
     }
   ],
   "Assets": [
-    {
-      "Identity": "/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/bundle/Seeds_MVC.styles.css",
-      "SourceId": "Seeds_MVC",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/bundle/",
-      "BasePath": "_content/Seeds_MVC",
-      "RelativePath": "Seeds_MVC.styles.css",
-      "AssetKind": "All",
-      "AssetMode": "CurrentProject",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ApplicationBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/bundle/Seeds_MVC.styles.css"
-    },
-    {
-      "Identity": "/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/projectbundle/Seeds_MVC.bundle.scp.css",
-      "SourceId": "Seeds_MVC",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/projectbundle/",
-      "BasePath": "_content/Seeds_MVC",
-      "RelativePath": "Seeds_MVC.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/obj/Debug/net7.0/scopedcss/projectbundle/Seeds_MVC.bundle.scp.css"
-    },
     {
       "Identity": "/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/wwwroot/css/site.css",
       "SourceId": "Seeds_MVC",
