@@ -9,4 +9,9 @@ public class SeedsController : Controller
     {
         return View();
     }
+    
+    public IActionResult VegetableSeeds()
+    {
+        return View();
+    }
 }
