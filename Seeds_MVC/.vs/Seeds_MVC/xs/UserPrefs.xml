@@ -1,4 +1,23 @@
 ﻿<Properties StartupConfiguration="{F75AA41D-BEC7-459B-A77D-5379F30C9FE7}|http">
-  <MonoDevelop.Ide.ItemProperties.Seeds__MVC FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Seeds__MVC PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Seeds_MVC/Models/ErrorViewModel.cs">
+    <Files>
+      <File FileName="Seeds_MVC/Models/ErrorViewModel.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Seeds_MVC" expanded="True">
+            <Node name="Seeds_MVC" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
