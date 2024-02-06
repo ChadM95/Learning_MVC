@@ -9,33 +9,35 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Seeds_MVC
 build_property.RootNamespace = Seeds_MVC
-build_property.ProjectDir = /Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/
+build_property.ProjectDir = C:\Users\auser\Documents\Chad\Repos\Learning_MVC\Seeds_MVC\Seeds_MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC
+build_property.MSBuildProjectDirectory = C:\Users\auser\Documents\Chad\Repos\Learning_MVC\Seeds_MVC\Seeds_MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/auser/Documents/Chad/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Potato/BlightResistant.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG90YXRvL0JsaWdodFJlc2lzdGFudC5jc2h0bWw=
+[C:/Users/auser/Documents/Chad/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Potato/BlightResistant.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90YXRvXEJsaWdodFJlc2lzdGFudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Potato/MainCrop.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUG90YXRvL01haW5Dcm9wLmNzaHRtbA==
+[C:/Users/auser/Documents/Chad/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Potato/MainCrop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG90YXRvXE1haW5Dcm9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Seeds/FlowerSeeds.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VlZHMvRmxvd2VyU2VlZHMuY3NodG1s
+[C:/Users/auser/Documents/Chad/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Seeds/FlowerSeeds.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VlZHNcRmxvd2VyU2VlZHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Seeds/VegetableSeeds.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2VlZHMvVmVnZXRhYmxlU2VlZHMuY3NodG1s
+[C:/Users/auser/Documents/Chad/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Seeds/VegetableSeeds.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VlZHNcVmVnZXRhYmxlU2VlZHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/Chad/ATU/WebAppDevelopment/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Shared/Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0xheW91dC5jc2h0bWw=
+[C:/Users/auser/Documents/Chad/Repos/Learning_MVC/Seeds_MVC/Seeds_MVC/Views/Shared/Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
