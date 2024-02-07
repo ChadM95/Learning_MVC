@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BH2xasSCKaBd4iDRAP5femdgZZh4vtBgJOaLBhofg6hfTmzJ5Ren7aOAbs0CBTPn/Gb9EfMaaRkxthMIt4zM6w==",
+  "dgSpecHash": "3f2lc207U+DEA5GLH5B7tvHy0YSTnE0nSZe+YSsAZQGF1/cfNtVSoHM9vMmwosLdIPH/ufeHiUB4fcMCAMSuFw==",
   "success": true,
   "projectFilePath": "C:\\Users\\auser\\Documents\\Chad\\Repos\\Learning_MVC\\Seeds_MVC\\Seeds_MVC\\Seeds_MVC.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\auser\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\auser\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\auser\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
-    "C:\\Users\\auser\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
