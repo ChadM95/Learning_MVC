@@ -5,7 +5,7 @@ namespace Seeds_MVC.Controllers
 {
     public class TestModelController : Controller
     {
-        public IActionResult Index()
+        public IActionResult TestIndex()
         {
             SeedsModel TestModel = new SeedsModel
             {
