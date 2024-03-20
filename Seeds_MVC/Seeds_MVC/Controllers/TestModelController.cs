@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Seeds_MVC.Models;
 
 namespace Seeds_MVC.Controllers
 {
@@ -6,7 +7,16 @@ namespace Seeds_MVC.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            SeedsModel TestModel = new SeedsModel
+            {
+                Category = "Flowers",
+                Name = "Lavender",
+                Variety = "PurlpleTown",
+                Description = "Bees Love it",
+                Amount = 5
+            };
+
+            return View(TestModel);
         }
     }
 }
