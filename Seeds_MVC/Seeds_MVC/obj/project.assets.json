@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\auser\\Documents\\Chad\\Repos\\Learning_MVC\\Seeds_MVC\\Seeds_MVC\\Seeds_MVC.csproj",
+      "projectUniqueName": "C:\\Users\\auser\\Documents\\Chad\\Learning_MVC\\Learning_MVC\\Seeds_MVC\\Seeds_MVC\\Seeds_MVC.csproj",
       "projectName": "Seeds_MVC",
-      "projectPath": "C:\\Users\\auser\\Documents\\Chad\\Repos\\Learning_MVC\\Seeds_MVC\\Seeds_MVC\\Seeds_MVC.csproj",
+      "projectPath": "C:\\Users\\auser\\Documents\\Chad\\Learning_MVC\\Learning_MVC\\Seeds_MVC\\Seeds_MVC\\Seeds_MVC.csproj",
       "packagesPath": "C:\\Users\\auser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\auser\\Documents\\Chad\\Repos\\Learning_MVC\\Seeds_MVC\\Seeds_MVC\\obj\\",
+      "outputPath": "C:\\Users\\auser\\Documents\\Chad\\Learning_MVC\\Learning_MVC\\Seeds_MVC\\Seeds_MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\auser\\AppData\\Roaming\\NuGet\\NuGet.Config",
