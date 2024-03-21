@@ -5,6 +5,7 @@ namespace Test_MVC.Controllers
 {
     public class TestController : Controller
     {
+        //displays details of an object
         public IActionResult Index()
         {
             Models.TestModel Test = new Models.TestModel
@@ -18,6 +19,7 @@ namespace Test_MVC.Controllers
             return View(Test);
         }
     
+        //displays a list of objects from model
         public IActionResult DisplayList()
         { 
             //create list of model objects
